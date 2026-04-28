@@ -1,3 +1,5 @@
+import 'clone_settings.dart';
+
 class AppInfo {
   final String packageName;
   final String name;
